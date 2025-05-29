@@ -1,0 +1,22 @@
+Cadastro de aluno:
+
+O que você busca monitorar com o sistema? Controle de mensalidade, teino e frequencia
+
+Pessoas que vão ter acesso? Alunos Professores
+
+Quais as informações no cadastro? Informações Pessoais, Plano, Data de entrada do aluno
+
+Vai ser monitorado historico de saude/treinos/avaliações fisicas? Monitorado Treino e avaliação física
+ 
+Vai existir historico de frequencia? Vai ter monitoramento de frequencia
+
+Qual o sistema de cobrança/planos? Planos mensal/semestral/anual
+
+Vai existir feedbacks? Não vai ter feedbacks
+
+
+
+
+
+
+
